@@ -1,0 +1,5 @@
+LiDAR Launching in ROS
+1. Must be in /catkin_ws
+2. source catkin_ws/devel/setup.bash
+3. Run
+roslaunch ouster_ros ouster.launch udp_dest:=192.168.74.174 sensor_hostname:=192.168.74.56 metadata:=/home/gkoley/ouster_data/meta.json viz:=true
