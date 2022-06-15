@@ -9,3 +9,8 @@ Filtering Pipeline
 2. catkin_make
 If no error proceed
 3. gkoley@gkoley-Precision-5760:~/catkin_ws$ rosrun filtering_irl filtering_irl_PointCloud_Filter input:=/os_cloud_node/points
+
+
+RosBag Recording
+
+gkoley@gkoley-Precision-5760:~/lidar-data/ouster-os0/sahil-garage$ rosbag record --node=/os_cloud_node -o Garage-Close-NoFog --duration=15
