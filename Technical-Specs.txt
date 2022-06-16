@@ -1,0 +1,13 @@
+Ouster OS0-64
+
+65536 Total points
+64 Rings
+1024 Points/ring
+
+Verticle Resolution: 90/64 = 1.40625 ~~ 1.4 degree
+Horizontal Res: 360/1024 = 0.3515625 ~~ 0.35 degree
+
+For DROR
+Angular Res = 1.4
+Const Multi = 1.5
+Min Neibour = 10
