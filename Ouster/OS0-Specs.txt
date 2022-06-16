@@ -1,0 +1,10 @@
+Ouster OS0 64
+
+Ethernet Address    bc:0f:a7:00:40:d9
+IPv4 (Link-local)   169.254.227.195/16
+IPv4 (Static)       192.168.74.56/24
+IPv6 (Link-local)   fe80::be0f:a7ff:fe00:40d9/64
+Hostname            os-122148001887
+Serial Number       122148001887
+Part Number         840-103574-06
+Model               OS-0-64-U02 
