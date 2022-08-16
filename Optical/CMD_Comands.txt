@@ -1,1 +1,3 @@
 Prosilica GT 1380 IP: 169.254.111.76
+
+roslaunch prosilica_camera prosilica1380.launch 
