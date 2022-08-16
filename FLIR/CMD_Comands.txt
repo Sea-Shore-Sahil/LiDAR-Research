@@ -1,3 +1,6 @@
 Executing in Ubuntu BosonUSB
 ~/IR-Camera/BosonUSB$ ./BosonUSB 4 sB
 4 is the video port, try changing number if it does not work
+
+Ros package
+roslaunch flir_boson_usb flir_boson.launch dev:=/dev/video4
